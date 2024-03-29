@@ -48,4 +48,4 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |---|---|
-|e-commerce|Анализ совершенных покупок, когортный анализ, RFM-анализ|Pandas, Seaborn, Matplotlib|
+|[e-commerce](https://github.com/OlgaUman/Cohort-RFM)|Анализ совершенных покупок, когортный анализ, RFM-анализ|Pandas, Seaborn, Matplotlib|
