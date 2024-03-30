@@ -47,4 +47,5 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
+|pet [Cookie Cats](https://github.com/OlgaUman/AB-testing-Cookie-Cats)|Анализ результатов A/B-тестирования видео игры. Данные получены с платформы Kaggle.com|Pandas, pingouin, Seaborn, bootstrap, chi2|
 |[e-commerce](https://github.com/OlgaUman/Cohort-RFM)|Анализ совершенных покупок, когортный анализ, RFM-анализ|Pandas, Seaborn, Matplotlib|
