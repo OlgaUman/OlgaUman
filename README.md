@@ -18,8 +18,9 @@
 #### 📜 Обучение и сертификаты:
 У меня высшее техническое образование, окончила курсы:
 
-* [Аналитик данных - KARPOV.COURSES]()
+* [Аналитик данных - KARPOV.COURSES](https://github.com/OlgaUman/OlgaUman/blob/master/DA_Karpov.pdf)
 * [Симулятор SQL - KARPOV.COURSES](https://github.com/OlgaUman/OlgaUman/blob/master/%20SimSQL_Karpov.pdf)
+* [Оконные функции SQL - Stepik, Антон Жиянов](https://github.com/OlgaUman/OlgaUman/blob/master/stepik-WSQL.pdf)
 * [Основы статистики - Stepik, Анатолий Карпов](https://github.com/OlgaUman/OlgaUman/blob/master/stepik-stat1.pdf)
 * [Добрый, добрый Python с Сергеем Балакиревым - Stepik](https://github.com/OlgaUman/OlgaUman/blob/master/stepik-python.pdf)
 * Профессия DataScience - SKILLFACTORY (в процессе)
