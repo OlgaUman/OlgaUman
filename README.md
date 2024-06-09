@@ -52,3 +52,4 @@
 |[Product Metric Analysis](https://github.com/OlgaUman/Product-Metric-Analysis)| Продуктовая аналитика| Анализ поведения пользователей в разрезе каналов привлечения, анализ эффективности рекламной кампании, определение причин падения активности пользователей|Retention Rate, ClickHouse, Superset, Redash, pandas, Seaborn, Matplotlib|
 |[e-commerce](https://github.com/OlgaUman/Cohort-RFM)| Продуктовая аналитика |Анализ совершенных покупок, когортный анализ, RFM-анализ|Pandas, Seaborn, Matplotlib|
 | [Alert System](https://github.com/OlgaUman/Alert-System) | Автоматизация| Построение системы алертов для отслеживания аномалий в метриках | Airflow, Superset, ClickHouse, Телеграм-бот, Межквартильный размах, pandas, Seaborn
+| [ETL-pipeline](https://github.com/OlgaUman/ETL-pipeline)|Автоматизация|Построение ETL-пайплайна, ежедневная выгрузка данных в ClickHouse|Airflow, ClickHouse, pandas, Seaborn
