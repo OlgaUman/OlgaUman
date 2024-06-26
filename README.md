@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+   <img src="https://img.shields.io/badge/Superset-white?logo=Excel&logoColor=black&style=for-the-badge" title="Superset" alt="Superset" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
@@ -48,6 +49,7 @@
 
 |Название проекта| Тема | Описание проекта| Стек|
 |----------------|------|-----------------|-----|
+|[AB_newsfeed](https://github.com/OlgaUman/AB_newsfeed)|A/B-тесты|Анализ результатов A/B-тестирования двух новых систем рекомендаций постов.|Pandas, Clickhouse, Scipy, pingouin, Seaborn, bootstrap, линеаризация|
 |[Cookie Cats](https://github.com/OlgaUman/AB-testing-Cookie-Cats)| A/B-тесты |Анализ результатов A/B-тестирования видео игры. Данные получены с платформы Kaggle.com|Pandas, pingouin, Seaborn, bootstrap, chi2|
 |[Product Metric Analysis](https://github.com/OlgaUman/Product-Metric-Analysis)| Продуктовая аналитика| Анализ поведения пользователей в разрезе каналов привлечения, анализ эффективности рекламной кампании, определение причин падения активности пользователей|Retention Rate, ClickHouse, Superset, Redash, pandas, Seaborn, Matplotlib|
 |[e-commerce](https://github.com/OlgaUman/Cohort-RFM)| Продуктовая аналитика |Анализ совершенных покупок, когортный анализ, RFM-анализ|Pandas, Seaborn, Matplotlib|
